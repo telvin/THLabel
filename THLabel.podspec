@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.screenshots  = 'https://raw.githubusercontent.com/MuscleRumble/THLabel/master/screenshot.png'
   s.license      = 'zlib'
   s.author       = { 'Tobias Hagemann' => 'tobias.hagemann@gmail.com' }
-  s.source       = { :git => 'https://github.com/MuscleRumble/THLabel.git', :tag => s.version.to_s }
+  s.source       = { :git => 'https://github.com/telvin/THLabel.git', :tag => s.version.to_s }
   s.platform     = :tvos, '10.9'
   s.source_files = 'THLabel'
   s.framework    = 'CoreText'
