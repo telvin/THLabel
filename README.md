@@ -11,8 +11,7 @@ THLabel is a subclass of UILabel, which additionally allows shadow blur, inner s
 
 ## Requirements
 
-* iOS 4.0 or higher (below iOS 7.0 is untested though)
-* ARC enabled
+* tvOS 9.0 or higher
 
 ## Installation
 
